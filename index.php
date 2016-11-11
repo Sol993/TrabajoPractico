@@ -1,9 +1,13 @@
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'>
+<html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'>
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
-
+<link rel="stylesheet" type="text/css" href="estilo/estilo.css">
 <div class="testbox">
   <h1>Registration</h1>
-
+  <title></title>
+</head>
+<body>
   <form action="/">
       <hr>
     <div class="accounttype">
@@ -29,3 +33,7 @@
    <a href="#" class="button">Register</a>
   </form>
 </div>
+</body>
+</html>
+
+
